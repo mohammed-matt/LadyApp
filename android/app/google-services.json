@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346546775396",
+    "firebase_url": "https://login-ecommerce-d6745.firebaseio.com",
+    "project_id": "login-ecommerce-d6745",
+    "storage_bucket": "login-ecommerce-d6745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346546775396:android:d312a26270289b96ff8671",
+        "android_client_info": {
+          "package_name": "com.example.lady_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346546775396-dgct0ncitr3d6096q63hbtd6pss8q8bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv04mooQ3s3wLnYbSL-mCApZKnuvvfSNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346546775396-dgct0ncitr3d6096q63hbtd6pss8q8bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
